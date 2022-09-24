@@ -18,7 +18,7 @@ h3 {
 }
 
 .wrapper {
-  background-image: url('/img/oldpaper4.png');
+  background-image: url('img/oldpaper4.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -84,15 +84,15 @@ h3 {
   max-width: 23%;
   margin-right: 0.5rem;
   padding: 10px;
-  background-image: url(/img/soniakh.jpeg);
+  background-image: url(img/soniakh.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   border-radius: 15px;
 }
 .panel-img:hover {
-  background-image: url(/img/soniakh.jpeg), url(/img/soniakh.jpeg),
-    url(/img/soniakh.jpeg), url(/img/soniakh.jpeg);
+  background-image: url(img/soniakh.jpeg), url(img/soniakh.jpeg),
+    url(img/soniakh.jpeg), url(img/soniakh.jpeg);
   background-position: top left, top right, bottom left, bottom right;
   background-repeat: no-repeat;
   background-size: 25%;
